@@ -74,7 +74,3 @@ if dados.shape[0] != 0:
 else:
     st.warning("Nenhum Dado Encontrado no Periodo Selecionado")
 
-
-# PARA EXECUTAR NO TERMINAL
-# streamlit run bolsa.py
-# source venv/scripts/activate - Ambiente Virtual
