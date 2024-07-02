@@ -76,5 +76,5 @@ else:
 
 
 # PARA EXECUTAR NO TERMINAL
-# streamlit run bolsa_valores.py
+# streamlit run bolsa.py
 # source venv/scripts/activate - Ambiente Virtual
