@@ -1,4 +1,4 @@
-## Projeto do Curso EmpowerData
+## Projeto do Curso na EmpowerData
 
 # PARA EXECUTAR NO TERMINAL
 # streamlit run bolsa.py
