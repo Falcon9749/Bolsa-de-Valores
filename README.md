@@ -2,4 +2,7 @@
 
 # PARA EXECUTAR NO TERMINAL
 # streamlit run bolsa.py
-# source venv/scripts/activate - Ambiente Virtual
+
+Ambiente Virtual
+
+# source venv/scripts/activate
