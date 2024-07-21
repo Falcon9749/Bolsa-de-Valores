@@ -41,7 +41,7 @@ def prever_dados(df, periodo):
     previsoes = modelo.predict(datas_futuras)
     return modelo, previsoes
 
-st.image("logo.jpg")
+st.image("logo_falcon.jpg")
 
 lista_tickers = ["VALE3.SA", "PRIO3.SA", "ALOS3.SA", "AZUL4.SA",
                  "GOOG", "EURUSD=X", "GBPUSD=X", "CAD=X", "JPY=X"]
