@@ -5,3 +5,7 @@
 
 ## Ativando o ambiente virtual
 # source venv/scripts/activate
+
+### Link do aplicativo no streamlit
+
+https://bolsa-de-valores-2024.streamlit.app/
