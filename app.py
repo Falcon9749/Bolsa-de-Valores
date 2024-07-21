@@ -1,7 +1,8 @@
 #pip install streamlit
-#pip install plotly
 #pip install yfinance
 #pip install Prophet
+#pip install plotly
+
 
 import streamlit as st
 import yfinance as yf

@@ -3,6 +3,5 @@
 # PARA EXECUTAR NO TERMINAL
 # streamlit run app.py
 
-## Ambiente Virtual
-
+## Ativando o ambiente virtual
 # source venv/scripts/activate
