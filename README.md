@@ -7,6 +7,7 @@
 # source venv/scripts/activate
 
 ### Link do aplicativo postado no streamlit para testar.
+### Se estiver adormecido, é só pedir para sair da hibernação.
 
 https://bolsa-de-valores-2024.streamlit.app/
 
